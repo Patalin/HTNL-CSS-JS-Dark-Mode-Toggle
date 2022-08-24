@@ -1,4 +1,4 @@
-# HTNL-CSS-JS-Dark-Mode-Toggle
+# HTML-CSS-JS-Dark-Mode-Toggle
 
 
 
